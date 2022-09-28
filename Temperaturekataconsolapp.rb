@@ -9,7 +9,7 @@ class Consoleapptemperature < Formula
   # depends_on "cmake" => :build
 
   def install
-    bin.install "consoleapptemperature"
+    bin.install "ExeTemperaturaConsoleApp"
   end
  
 end
