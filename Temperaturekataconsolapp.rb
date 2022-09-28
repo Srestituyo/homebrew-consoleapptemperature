@@ -3,7 +3,7 @@ class Consoleapptemperature < Formula
   desc ""
   homepage ""
   url "https://github.com/Srestituyo/ConsoleAppTemperature/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "305ab30879eff8374c18b9af03d23c8fa9b35c071774cf03d6b83ebe8b9308f0"
+  sha256 "72901288f16ee519a40a157fac491649389069e8da1d45ad2ca96d83b118c8b5"
   license ""
 
   # depends_on "cmake" => :build
